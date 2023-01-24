@@ -34,6 +34,6 @@ On execution, the bookstore will simply print a listing of persisted initial dum
 ## Contact / Pull Requests
 
  * Authors: Maximilian Schiedermeier, Sébastien Mosser
- * Github: [m5c](https://github.com/m5c) [ace-design](https://github.com/ace-design)
+ * Github: [m5c](https://github.com/m5c) [mosser](https://github.com/mosser)
  * License: [MIT](https://opensource.org/licenses/MIT)
 
